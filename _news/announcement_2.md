@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-13 16:11:00-0400
+date: 2026-03-14 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-:tada: Our paper ["Secure short-term load forecasting for smart grids with transformer-based federated learning"](https://doi.org/10.1109/ICCEP57914.2023.10247363) got accepted at [ICCEP 2023](https://www.iccep.net/).
+:tada: Our paper, "A Generalized Synthetic Control Method for Baseline Estimation in Demand Response Services," developed during a research stay at MIT's LIDS, was accepted to the American Control Conference 2026.
